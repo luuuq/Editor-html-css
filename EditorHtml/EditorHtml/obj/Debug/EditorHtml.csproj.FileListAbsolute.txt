@@ -1,0 +1,9 @@
+C:\Users\Luqman\Desktop\EditorHtml\EditorHtml\bin\Debug\EditorHtml.exe.config
+C:\Users\Luqman\Desktop\EditorHtml\EditorHtml\bin\Debug\EditorHtml.exe
+C:\Users\Luqman\Desktop\EditorHtml\EditorHtml\bin\Debug\EditorHtml.pdb
+C:\Users\Luqman\Desktop\EditorHtml\EditorHtml\obj\Debug\EditorHtml.csprojResolveAssemblyReference.cache
+C:\Users\Luqman\Desktop\EditorHtml\EditorHtml\obj\Debug\EditorHtml.Form1.resources
+C:\Users\Luqman\Desktop\EditorHtml\EditorHtml\obj\Debug\EditorHtml.Properties.Resources.resources
+C:\Users\Luqman\Desktop\EditorHtml\EditorHtml\obj\Debug\EditorHtml.csproj.GenerateResource.Cache
+C:\Users\Luqman\Desktop\EditorHtml\EditorHtml\obj\Debug\EditorHtml.exe
+C:\Users\Luqman\Desktop\EditorHtml\EditorHtml\obj\Debug\EditorHtml.pdb
